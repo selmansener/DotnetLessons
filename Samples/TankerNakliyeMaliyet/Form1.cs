@@ -5,8 +5,6 @@ namespace TankerNakliyeMaliyet
         private readonly float _litreMazotFiyat = 18.79F;
         private readonly float _kmBasinaLitreGidis = 0.7F;
         private readonly float _kmBasinaLitreGidisDonus = 0.35F;
-        // protected
-        // internal
 
         public Form1()
         {
