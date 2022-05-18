@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj", "{D7C659EE-09BC-4415-A3D4-C86343F66122}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{2E7D4615-5A69-41B7-82D0-B8E9F6317A60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables", "Variables\Variables.csproj", "{2E7D4615-5A69-41B7-82D0-B8E9F6317A60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TankerNakliyeMaliyet", "TankerNakliyeMaliyet\TankerNakliyeMaliyet.csproj", "{D1EF939A-2C7A-4CEC-8FD5-FDB4B4A385E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2E7D4615-5A69-41B7-82D0-B8E9F6317A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E7D4615-5A69-41B7-82D0-B8E9F6317A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E7D4615-5A69-41B7-82D0-B8E9F6317A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1EF939A-2C7A-4CEC-8FD5-FDB4B4A385E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1EF939A-2C7A-4CEC-8FD5-FDB4B4A385E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1EF939A-2C7A-4CEC-8FD5-FDB4B4A385E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1EF939A-2C7A-4CEC-8FD5-FDB4B4A385E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
