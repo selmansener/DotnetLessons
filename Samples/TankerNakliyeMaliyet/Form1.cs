@@ -10,7 +10,7 @@ namespace TankerNakliyeMaliyet
         {
             InitializeComponent();
         }
-
+        //mustafa cingöz
         private void btnHesapla_Click(object sender, EventArgs e)
         {
             string mesafeMetin = txtMesafe.Text;
